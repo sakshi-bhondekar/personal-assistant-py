@@ -270,7 +270,7 @@ if __name__ =="__main__":
         
 
        # elif 'send message' in query:
-           # kit.sendwhatmsg("+916232094087", "This is testing protocol", 2,24)
+           # kit.sendwhatmsg("+919876543210", "This is testing protocol", 2,24)
         #elif 'play songs on youtube' in query:
          #   kit.playanysong("wake up")
     #takecommand()
